@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @accayman7
+- 👋 Hi, I’m Ayman
 - 👀 I’m interested in programming languages
 - 🌱 Currently playing around with vibe coding
